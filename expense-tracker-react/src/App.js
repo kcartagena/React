@@ -7,9 +7,11 @@ function App() {
   return (
     <div>
       <Header />
-      <Balance />
 
-
+      <div className="container">
+        <Balance />
+      </div>
+      
     </div>
   );
 }
