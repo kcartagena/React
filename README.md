@@ -1,5 +1,4 @@
-# React
-## Projects
-___
+# React Projects
+
 
 - Expense Tracker
