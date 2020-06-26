@@ -1,5 +1,5 @@
 # React Projects
 
 
-- Expense Tracker
-- Tic-tac-toe Game (offical React tutorial)
+- [Expense Tracker](./expense-tracker-react)
+- [Tic-tac-toe Game (offical React tutorial)](./react-tutorial)
