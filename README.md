@@ -2,4 +2,5 @@
 
 
 - [Expense Tracker](./expense-tracker-react)
-- [Tic-tac-toe Game (offical React tutorial)](./react-tutorial)
+- [TicTacToe Game (offical React tutorial)](./react-tutorial)
+- [TicTacToe with Hooks](./tic-tac-toe2)
